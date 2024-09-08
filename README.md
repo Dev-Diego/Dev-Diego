@@ -1,12 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BA52F6&height=120&section=header"/>
 
-## hola 👋 Bienvenido, te presento mi perfil ✨
+## 🌸 Bienvenido a mi perfil. 🌻
 
 <p align="center"><img title="Yaemori" src="https://qu.ax/XfAM.jpg"></p>
-
-<p align="center">
-<img src="https://qu.ax/XfAM.jpg" alt="YaemoriBot-MD" width="900"/>
-</p>
 
 <a href="https://www.youtube.com/@OfcDiego" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"/>
 <a href="https://www.facebook.com/profile.php?id=100074741175505&mibextid=ZbWKwL"/>
@@ -25,7 +21,7 @@
 </div>
 <h2 align="center"> MI PROYECTO </h2>
 
-<a href="https://github.com/Dev-Diego/YaemoriBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=elrebelde21&repo=LoliBot-MD&theme=merko)</a>
+<a href="https://github.com/Dev-Diego/YaemoriBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Dev-Diego&repo=YaemoriBot-MD&theme=merko)</a>
 
 <h2 align="center"> PROYECTOS DE COLABORACIÓN </h2>
 
