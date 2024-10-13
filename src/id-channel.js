@@ -21,4 +21,8 @@ client.on('message', async msg => {
     }
 });
 
+handler.help = ['idchannel']
+handler.tags = ['tools']
+handler.command = ['id', 'idchannel']
+handler.register = true 
 client.initialize();
